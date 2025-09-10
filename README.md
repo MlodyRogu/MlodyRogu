@@ -1,6 +1,6 @@
 # Hi there, I'm Jakub 👋  
 
-🚀 **Automation & Integrations Engineer | AI Systems Analyst**  
+**Automation & Integrations Engineer | AI Systems Analyst**  
 I specialize in building **automation workflows**, **API integrations**, and **AI-powered solutions** for e-commerce and SaaS.  
 Focused on reducing manual work, improving scalability, and delivering clean documentation.  
 
@@ -31,7 +31,7 @@ Focused on reducing manual work, improving scalability, and delivering clean doc
 
 ## 📫 Contact  
 - 🌍 Location: Poland / Remote  
-- ✉️ Email: **kubolakkk@gmail.com**  
+- ✉️ Email: **kubaoklak@gmail.com**  
 - 💼 LinkedIn: [Jakub Róg](https://www.linkedin.com/in/jakub-róg-a15152380/)  
 
 ---
