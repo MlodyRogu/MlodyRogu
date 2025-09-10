@@ -1,4 +1,4 @@
-# Hi there, I'm Jakub 👋  
+# Hi there, I'm Jacob 👋  
 
 **Automation & Integrations Engineer | AI Systems Analyst**  
 I specialize in building **automation workflows**, **API integrations**, and **AI-powered solutions** for e-commerce and SaaS.  
